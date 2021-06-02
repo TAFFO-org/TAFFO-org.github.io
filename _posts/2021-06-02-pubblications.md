@@ -42,6 +42,27 @@ pubs:
       year:    "2020"
       url:     "https://doi.org/10.1109/LES.2019.2913774"
       doi:     "https://doi.org/10.1109/LES.2019.2913774"
+
+    - title:   "Fixed point exploitation via compiler analyses and transformations: POSTER"
+      author:  "D. Cattaneo, A. Di Bello, M. Chiari, S. Cherubin, G. Agosta"
+      journal: "CF 2019"
+      year:    "2019"
+      url:     "https://doi.org/10.1145/3310273.3323424"
+      doi:     "https://doi.org/10.1145/3310273.3323424"
+
+    - title:   "Feedback-Driven Performance and Precision Tuning for Automatic Fixed Point Exploitation"
+      author:  "D. Cattaneo, M. Chiari, S. Cherubin, A. Di Bello, G. Agosta"
+      journal: "PARCO 2019"
+      year:    "2019"
+      url:     "https://doi.org/10.3233/APC200054"
+      doi:     "https://doi.org/10.3233/APC200054"
+
+    - title:   "Embedded Operating System Optimization through Floating to Fixed Point Compiler Transformation"
+      author:  "D. Cattaneo, A. Di Bello, S. Cherubin, F. Terraneo, G. Agosta"
+      journal: "DSD 2018"
+      year:    "2018"
+      url:     "https://doi.org/10.1109/DSD.2018.00042"
+      doi:     "https://doi.org/10.1109/DSD.2018.00042"
 ---
 
 {% for pub in page.pubs %}
