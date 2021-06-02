@@ -57,6 +57,19 @@ and is currently working on supporting more output numeric representations in TA
 He is a M.Sc. student in Computer Science and Engineering at Politecnico di Milano.
 
 
+## Giovanni Agosta
+
+Giovanni Agosta is the academic supervisor of the TAFFO project.
+
+Giovanni Agosta is Associate Professor at Politecnico di Milano, where
+he received his Ph.D. in 2004 and the MS degree (Laurea) in 2000. His
+research interests focus on compiler technologies for the enforcement
+of extra functional properties. He has published over 100 papers in
+international journals and conferences.  He is a senior member of the
+ACM, a member of the HiPEAC NoE, an associate editor of SoftwareX, and
+is currently the technical manager of the RECIPE research project.
+
+
 # Former Members
 
 ---
