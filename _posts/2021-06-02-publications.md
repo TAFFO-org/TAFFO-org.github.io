@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Pubblications
-subtitle: Our scientific pubblications regarding TAFFO
+title: Publications
+subtitle: Our scientific publications regarding TAFFO
 tags: []
 comments: false
 last-updated: 2021-06-02
