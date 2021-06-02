@@ -223,6 +223,7 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
+  - README-beautifuljekyll.md
   - docs/
 
 plugins:
