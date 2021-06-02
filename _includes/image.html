@@ -1,0 +1,20 @@
+<div class="captioned-img align{{include.align}}">
+    {% if include.href %}
+    <a href="{{ include.href }}" target="_blank">
+    {% else %}
+    <a href="{{ include.url }}" target="_blank">
+    {% endif %}
+    {% if include.class %}
+      {% capture classarg %}class="{{ include.class }}"{% endcapture %}
+    {% else %}
+      {% assign classarg="" %}
+    {% endif %}
+
+    {% if include.width %}
+    <img src="{{ include.url }}" width="{{ include.width }}" {{ classarg }} />
+    {% else if include.height %}
+    <img src="{{ include.url }}" height="{{ include.height }}" {{ classarg }} />
+    {% else %}
+    <img src="{{ include.url }}" {{ classarg }} />
+    {% endif %}</a>{% if include.caption %}{{ include.caption }}{% endif %}
+</div>
