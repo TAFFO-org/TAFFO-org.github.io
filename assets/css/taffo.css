@@ -1,0 +1,33 @@
+@import url("image.css");
+
+.centered {
+  text-align: center;
+}
+.centered a {
+  padding: 0.9375rem 1.875rem;
+  font-size: 1.625rem;
+  margin-top: 0.625rem;
+  margin-left: 0.25rem;
+  margin-right: 0.25rem;
+}
+
+a.btn {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.btn-success {
+  background: #5cb85c;
+}
+
+.navbar-custom .navbar-nav .nav-item {
+  text-transform: uppercase;
+  font-size: 1.2rem;
+  letter-spacing: 0.15rem;
+}
+
+@media (min-width: 1200px) {
+  .navbar-custom {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+}

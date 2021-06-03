@@ -14,6 +14,7 @@ author: The TAFFO Team
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Home: "/"
   Getting Started: "getstarted"
   People: "people"
 #  Resources:
@@ -102,7 +103,7 @@ navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
-hover-col: "#0085A1"
+hover-col: "#4bb0cd"
 footer-col: "#EAEAEA"
 footer-text-col: "#efefef"
 footer-link-col: "#c0c0c0"
@@ -118,8 +119,8 @@ footer-img: "/assets/img/HEAPfull.jpg"
 #mobile-theme-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
-#site-css:
-#  - "/assets/css/custom-styles.css"
+site-css:
+  - "/assets/css/taffo.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
