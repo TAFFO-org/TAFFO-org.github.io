@@ -12,8 +12,6 @@ bioheight: 200px
 
 ## [Stefano Cherubin](https://cherubin.faculty.polimi.it/){:target="_blank"}
 
-{% include image.html url="/assets/img/keru.jpg" height=page.bioheight align="right" class="round" href="https://cherubin.faculty.polimi.it/" %}
-
 Stefano Cherubin is a Lecturer at [Edinburgh Napier University](https://www.napier.ac.uk/){:target="_blank"} (United Kingdom).
 He received his Ph.D. in Information Engineering at Politecnico di Milano (Italy) in 2019 with a thesis on Compiler-Assisted Dynamic Precision Tuning.
 His research interests include compilers, and approximate computing.
@@ -37,8 +35,6 @@ He is now working on TAFFO as part of his Ph.D. at Politecnico di Milano.
 
 ## [Michele Chiari](https://michiari.github.io/){:target="_blank"}
 
-{% include image.html url="/assets/img/mic.jpg" height=page.bioheight align="right" class="round" href="https://michiari.github.io/" %}
-
 Michele Chiari is a PhD candidate at Politecnico di Milano, where he
 earned his M.Sc. in 2018. His research interests cover formal methods,
 focusing on temporal logic in particular, and software
@@ -58,7 +54,7 @@ He developed FixM, TAFFO's custom fixed-point mathematical library function gene
 and is currently working on supporting more output numeric representations in TAFFO.
 
 
-## Giovanni Agosta
+## [Giovanni Agosta](https://agosta.faculty.polimi.it/doku.html)
 
 Giovanni Agosta is Associate Professor at Politecnico di Milano, where
 he received his Ph.D. in 2004 and the MS degree (Laurea) in 2000. His
