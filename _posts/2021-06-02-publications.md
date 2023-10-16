@@ -4,10 +4,45 @@ title: Publications
 subtitle: Our scientific publications regarding TAFFO
 tags: []
 comments: false
-last-updated: 2021-06-02
+last-updated: 2023-10-16
 
 pubs:
 
+    - title:   "Hardware and Software Support for Mixed Precision Computing: a Roadmap for Embedded and HPC Systems"
+      author:  "W. Fornaciari, G. Agosta, D. Cattaneo, L. Denisov, A. Galimberti, G. Magnani, D. Zoni"
+      journal: "DATE 2023"
+      year:    "2023"
+      url:     "https://doi.org/10.23919/DATE56975.2023.10137092"
+      doi:     "https://doi.org/10.23919/DATE56975.2023.10137092"
+      
+    - title:   "TAFFO: The compiler-based precision tuner"
+      author:  "D. Cattaneo, M. Chari, G. Agosta, S. Cherubin"
+      journal: "SoftwareX"
+      year:    "2022"
+      url:     "https://doi.org/10.1016/j.softx.2022.101238"
+      doi:     "https://doi.org/10.1016/j.softx.2022.101238"
+      
+    - title:   "Precision Tuning in Parallel Applications"
+      author:  "G. Magnani, L. Denisov, D. Cattaneo, G. Agosta"
+      journal: "PARMA-DITAM@HiPEAC 2022"
+      year:    "2022"
+      url:     "https://drops.dagstuhl.de/opus/volltexte/2022/16121/pdf/OASIcs-PARMA-DITAM-2022-5.pdf"
+      doi:     "https://doi.org/10.4230/OASIcs.PARMA-DITAM.2022.3"
+      
+    - title:   "Ahead-of-Real-Time (ART): A Methodology for Static Reduction of Worst-Case Execution Time"
+      author:  "D. Cattaneo, G. Magnani, S. Cherubin, G. Agosta"
+      journal: "NG-RES@HiPEAC 2022"
+      year:    "2022"
+      url:     "https://drops.dagstuhl.de/opus/volltexte/2022/16112/pdf/OASIcs-NG-RES-2022-4.pdf"
+      doi:     "https://doi.org/10.4230/OASIcs.NG-RES.2022.4"
+    
+    - title:   "Architecture-aware precision tuning with multiple number representation systems"
+      author:  "D. Cattaneo, M. Chiari, N. Fossati, S. Cherubin, G. Agosta"
+      journal: "DAC 2021"
+      year:    "2021"
+      url:     "https://doi.org/10.1109/DAC18074.2021.9586303"
+      doi:     "https://doi.org/10.1109/DAC18074.2021.9586303"
+      
     - title:   "FixM: Code generation of fixed point mathematical functions"
       author:  "D. Cattaneo, M. Chiari, G. Magnani, N. Fossati, S. Cherubin, G. Agosta"
       journal: "Sustain. Comput. Informatics Syst. 29"
