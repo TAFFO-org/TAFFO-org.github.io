@@ -10,7 +10,7 @@ bioheight: 200px
 
 ---
 
-## [Stefano Cherubin](https://cherubin.faculty.polimi.it/){:target="_blank"}
+## [Stefano Cherubin](https://skeru.github.io/){:target="_blank"}
 
 Stefano Cherubin is an Associate Professor at [NTNU](https://www.napier.ac.uk/){:target="_blank"} (Norway).
 He received his Ph.D. in Information Engineering at Politecnico di Milano (Italy) in 2019 with a thesis on Compiler-Assisted Dynamic Precision Tuning.
