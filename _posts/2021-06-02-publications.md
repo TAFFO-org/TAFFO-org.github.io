@@ -8,6 +8,13 @@ last-updated: 2023-10-16
 
 pubs:
 
+    - title:   "Mixed Precision in Heterogeneous Parallel Computing Platforms via Delayed Code Analysis"
+      author:  "D. Cattaneo, A. Maggioli, G. Magnani, L. Denisov, S. Yang, G. Agosta, S. Cherubin"
+      journal: "SAMOS 2023"
+      year:    "2023"
+      url:     "https://doi.org/10.1007/978-3-031-46077-7_33"
+      doi:     "https://doi.org/10.1007/978-3-031-46077-7_33"
+      
     - title:   "Hardware and Software Support for Mixed Precision Computing: a Roadmap for Embedded and HPC Systems"
       author:  "W. Fornaciari, G. Agosta, D. Cattaneo, L. Denisov, A. Galimberti, G. Magnani, D. Zoni"
       journal: "DATE 2023"
